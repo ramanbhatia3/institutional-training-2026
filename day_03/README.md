@@ -1,4 +1,4 @@
-# Day 4 - Compilation Process, Storage Classes, Operators and Type Casting
+# Day 3 - Compilation Process, Storage Classes, Operators and Type Casting
 
 ## Topics Covered
 
