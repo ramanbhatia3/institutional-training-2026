@@ -1,4 +1,4 @@
-# Day 16 - Revision and HackerRank Practice
+# Day 17 - Revision and HackerRank Practice
 
 
 ## Activities
