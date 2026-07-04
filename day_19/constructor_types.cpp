@@ -32,7 +32,7 @@ int main(){
 
     A obj2(5);  // runs parameterized constructor
 
-    A obj3(5, 7); // no matching function for call to 'A::A(int, int)'
+    // A obj3(5, 7); // no matching function for call to 'A::A(int, int)'
 
     B obj3(5, 7); // runs dual parameterized constructor
     return 0;
